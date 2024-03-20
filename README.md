@@ -1,5 +1,5 @@
 #### Bank-Customer-Churn-Prediction
-The task at hand is to predict whether a customer at a bank will close their account or not based on certain given features, as well as the ones you create yourself. The data is obtained from [kaggle](https://www.kaggle.com/competitions/playground-series-s4e1/data).
+The task at hand is to predict whether a customer at a bank will close their account or not based on certain given features, as well as the ones you create yourself. The data is obtained from a [kaggle](https://www.kaggle.com/competitions/playground-series-s4e1/data) competition.
 
 
 <hr>
